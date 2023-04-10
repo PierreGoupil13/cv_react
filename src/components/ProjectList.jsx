@@ -22,6 +22,9 @@ function ProjectList() {
         {
             "titre": "Deuxieme Projet",
             "description": "Voici un project"
+        }, {
+            "titre": "Deuxieme Projet",
+            "description": "Voici un project"
         },
 
     ]
@@ -30,6 +33,7 @@ function ProjectList() {
             <Project project={projects[0]} />
             <Project project={projects[1]} />
             <Project project={projects[2]} />
+            <Project project={projects[0]} />
             <Project project={projects[0]} />
             <Project project={projects[0]} />
             <Project project={projects[0]} />

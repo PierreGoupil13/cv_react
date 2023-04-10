@@ -1,4 +1,5 @@
 import "./Project.css"
+import Button from "./Button";
 function Project(props) {
     return (
         <div className="project">
@@ -9,7 +10,7 @@ function Project(props) {
             <p className="description">
                 {props.project.description}
             </p>
-            <a href="#">Voir plus</a>
+            <Button textButton={"En savoir plus"} />
         </div>
     )
 };

@@ -1,13 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar';
-import ProjectList from './components/ProjectList';
+import ProjectPage from './pages/ProjectPage'
 
 function App() {
   return (
     <div>
-        <Navbar/>
-        <ProjectList/>
+        <ProjectPage/>
     </div>
   );
 }
