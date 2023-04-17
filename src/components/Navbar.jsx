@@ -9,7 +9,7 @@ function Navbar() {
                     <div className="navBar-list-item"><a href="#" className="navbar-hyper-item">Projects</a></div>
                 </div>
                 <div className="navBar-nested">
-                    <div className="navBar-list-item"><a href="#" className="navbar-hyper-item">Aboutez</a></div>
+                    <div className="navBar-list-item"><a href="#" className="navbar-hyper-item">Teub 🫦</a></div>
                     <div className="navBar-list-item"><a href="#" className="navbar-hyper-item">Contact</a></div>
                 </div>
             </div>
